@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br>
 
 
-## Blog
+## 🌠 Blog
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://oliverhouse.tistory.com/)
 
 ## 🔨 Tech Stack 
