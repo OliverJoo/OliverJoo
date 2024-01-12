@@ -47,6 +47,15 @@ Here are some ideas to get you started:
     </div>
 </div>
 
+## 🪪 Certificate 
+    SCJP - Sun Microsystems
+    Securities Industry Essentials (SIE) - FINRA
+    Passed Level I of the CFA Program - CFA Institute
+    Certified Investment Manager - Korea Financal Investment Association
+    Certified Fund Investment Advisor - Korea Financal Investment Association
+    Certified Derivatives Investment Advisor - Korea Financal Investment Association
+
+
 ## 📞 Contact 
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/lvsin/">
