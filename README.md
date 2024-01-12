@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 ## Blog
-<a href="https://oliverhouse.tistory.com/" target="_blank"><img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory/></a><br>
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory%20Badge)](https://oliverhouse.tistory.com/)
 <a href="mailto:jjaemoon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 
 ## 🔨 Tech Stack 🔨
