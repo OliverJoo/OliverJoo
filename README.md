@@ -53,6 +53,13 @@ Here are some ideas to get you started:
         <br>
         <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
+        <br>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=OpenGL&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=OpenGL&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white"/>
+        <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=white"/>
     </div>
 </div>
 
