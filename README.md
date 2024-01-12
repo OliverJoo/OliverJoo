@@ -37,7 +37,6 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/c-%2300599C?style=for-the-badge&logo=c&logoColor=white">
         <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-        <img src="https://img.shields.io/badge/django-%23092E20.svg?&logo=django&logoColor=white&style=for-the-badge">
         <br>
         <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> 
