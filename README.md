@@ -25,9 +25,8 @@ Here are some ideas to get you started:
 
 ## Blog
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://oliverhouse.tistory.com/)
-<a href="mailto:jjaemoon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
-## 🔨 Tech Stack 🔨
+## 🔨 Tech Stack 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div>
         <img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=Java&logoColor=white">
@@ -48,3 +47,12 @@ Here are some ideas to get you started:
     </div>
 </div>
 
+## 📞 Contact 
+<div style="display:flex; flex-direction:row;">
+    <a href="https://www.instagram.com/lvsin/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+    <a href="mailto:jjaemoon@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
+    </a>
+</div><br>
