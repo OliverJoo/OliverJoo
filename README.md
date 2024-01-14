@@ -71,11 +71,11 @@ Here are some ideas to get you started:
 
 ## 🪪 Certificate 
     SCJP - Sun Microsystems
-    Securities Industry Essentials (SIE) - FINRA
+    Securities Industry Essentials (SIE) - FINRA(Financial Industry Regulatory Authority - US)
     Passed Level I of the CFA Program - CFA Institute
-    Certified Investment Manager - Korea Financal Investment Association
-    Certified Fund Investment Advisor - Korea Financal Investment Association
-    Certified Derivatives Investment Advisor - Korea Financal Investment Association
+    Certified Investment Manager - Korea Financial Investment Association
+    Certified Fund Investment Advisor - Korea Financial Investment Association
+    Certified Derivatives Investment Advisor - Korea Financial Investment Association
 
 
 ## 📞 Contact 
