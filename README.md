@@ -47,7 +47,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white"/> 
         <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> 
         <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge?logo=Jupyter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge?logo=Jupyter&logoColor=white"/>
         <br>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
         <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
