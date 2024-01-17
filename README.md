@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOliverJoo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![OliverJoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverJoo&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)
+[![OliverJoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverJoo&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)| <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=OliverJoo&theme=cobalt&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" alt="My GitHub Time Stats" /> |
 
 <a href="https://github.com/OliverJoo"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverJoo&layout=compact&theme=nord&hide_border=true" /></a> 
 <br>
