@@ -15,17 +15,16 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Oliver's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
-[![Hits](https://hits.sh/github.com/OliverJoo/OliverJoo.svg?style=for-the-badge&label=Profile%20Hits&color=2496ED)](https://hits.sh/github.com/OliverJoo/OliverJoo/)
-
-
 
 [![OliverJoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverJoo&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)
 
 <!-- <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=OliverJoo&theme=cobalt&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" alt="My GitHub Time Stats" /> | -->
 
 <a href="https://github.com/OliverJoo"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverJoo&layout=compact&theme=nord&hide_border=true" /></a> 
-<br>
 
+
+[![Hits](https://hits.sh/github.com/OliverJoo/OliverJoo.svg?style=for-the-badge&label=Profile%20Hits&color=2496ED)](https://hits.sh/github.com/OliverJoo/OliverJoo/)
+<br>
 
 ## 🦥 Blog
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://oliverhouse.tistory.com/)
