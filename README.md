@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Oliver's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 [![Hits](https://hits.sh/github.com/OliverJoo/OliverJoo.svg?style=for-the-badge&label=Profile%20Hits&color=2496ED)](https://hits.sh/github.com/OliverJoo/OliverJoo/)
-<img src="https://img.shields.io/badge/Profile%20Hits-1234-2496ED?style=plastic" height="80"/>
 
 
 
